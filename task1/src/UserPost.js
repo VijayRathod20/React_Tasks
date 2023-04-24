@@ -36,7 +36,7 @@ function PostRoute() {
       .catch(error => {
         console.log(error);
       });
-    setSelectedPostId(userId);
+  
    
  }
   
